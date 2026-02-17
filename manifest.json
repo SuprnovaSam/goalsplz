@@ -1,0 +1,22 @@
+{
+  "name": "LifeQuarterly",
+  "short_name": "LifeQ",
+  "description": "Design your life with intention across the four pillars of a balanced existence.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdfaf7",
+  "theme_color": "#3b5948",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
